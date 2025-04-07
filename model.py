@@ -15,7 +15,7 @@ hands = mp_hands.Hands(static_image_mode=True)
 
 expected_landmarks = 21
 
-dataset_dir = "/Users/felipecarbone/PycharmProjects/Project/data"
+dataset_dir = "/Users/felipecarbone/PycharmProjects/projectM7/data"
 categories = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U",
               "V", "W", "X", "Y", "Z"]
 
